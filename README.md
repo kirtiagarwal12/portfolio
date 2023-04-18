@@ -9,9 +9,11 @@ Project gallery with descriptions, technologies used, and links to live demos or
 A skill stack section to get an understanding about the technologies I worked upton.
 
 **CONTACT:**
+
 If you have any questions or would like to discuss a project, feel free to contact me at agarwalkirti1212@gmail.com .
 Who love to work together on projects.
 
 **ACKNOWLEDGE:**
+
 CSS3 for the responsive and user-friendly layout.
 Font Awesome for the icons.
